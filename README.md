@@ -11,6 +11,7 @@
 - [Credits](#credits)
 
 ## Project description
+![Site screenshot][product-screenshot]
 WeatherApp is a simple web application that allows users to check current weather conditions for any location in the world. The app is built with HTML, CSS and JavaScript, and uses the OpenWeatherMap API to retrieve weather data.
 For this project, I didn't focus on css only on JS exercise.
 
@@ -47,6 +48,7 @@ Link: https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[product-screenshot]: img/screen.png
 [HTML-img]: https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white
 [CSS-img]: https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white
 [JS-img]: https://img.shields.io/badge/-JS-F7DF1E?logo=javaScript&logoColor=white

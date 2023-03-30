@@ -10,7 +10,6 @@ const humidity = document.querySelector('.humidity')
 const API_LINK = 'https://api.openweathermap.org/data/2.5/weather?q='
 const API_KEY = '&appid=381441f621bb36caadd1a8b5b57c89fc'
 const API_UNITS = '&units=metric'
-const API_LANG = '&lang=pl'
 
 const getWeather = () => {
 	const city = input.value || 'Bochnia'
@@ -54,7 +53,7 @@ const getWeather = () => {
 
 			// console.log(res.data.weather[0].id)
 		})
-		.catch(() => (warning.textContent = 'Wpisz poprawną nazwę miasta'))
+		.catch(() => (warning.textContent = 'Enter the correct city name'))
 }
 
 const enterCheck = (e) => {
