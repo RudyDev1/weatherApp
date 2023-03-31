@@ -29,7 +29,7 @@ This website was built using the following technologies:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting started
-To use ToDo List, simply clone or download the repository and open index.html in your preferred web browser.
+To use WeatherApp, simply clone or download the repository and open index.html in your preferred web browser.
 
 ## Usage
 
@@ -39,7 +39,7 @@ To use ToDo List, simply clone or download the repository and open index.html in
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
-If you'd like to contribute to ToDo List, please fork the repository and make your changes in a new branch. Once you're done, submit a pull request and we'll review your changes.
+If you'd like to contribute to WeatherApp, please fork the repository and make your changes in a new branch. Once you're done, submit a pull request and we'll review your changes.
 
 ## Credits
 WeatherApp was developed by RudyGamesv2. It uses the OpenWeatherMap API to retrieve weather data.
